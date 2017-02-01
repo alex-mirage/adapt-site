@@ -1,0 +1,32 @@
+.glyphicon{
+font-size: 300%;
+color: black;
+}
+ hr {
+    border: none; 
+    background-color: black; 
+    height: 1px;
+   }
+
+.col-lg-8{
+	margin-top: 10px;
+}
+
+.as{
+	display: flex;
+	justify-content: center;
+}
+
+.glyphicon{
+	margin-left: 15px;
+}
+
+
+.footer-menu{
+	margin-left: 593px;
+}
+
+.item{
+	margin-left: 200px;
+}
+
